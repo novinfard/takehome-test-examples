@@ -1,9 +1,6 @@
 # Take-home Test Examples
 Here you can find some examples of take-home tests
 
-## Generic
-- https://github.com/justeat/JustEat.RecruitmentTest
-
 ## Front-End
 - https://github.com/Designory/fed-takehome-boilerplate
 - https://github.com/tedtkang/sense360_takehome
